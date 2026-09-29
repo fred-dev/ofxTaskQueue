@@ -1,2 +1,2 @@
-ofxPoco
+ofxPocoHeaders
 ofxTaskQueue

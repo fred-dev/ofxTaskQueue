@@ -5,4 +5,4 @@ meta:
 	ADDON_TAGS = "threads" "tasks" "taskmanager"
 	ADDON_URL = http://github.com/bakercp/ofxTaskQueue
 common:
-	ADDON_DEPENDENCIES = ofxPoco
+	ADDON_DEPENDENCIES = ofxPocoHeaders
