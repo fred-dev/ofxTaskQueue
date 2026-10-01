@@ -1,6 +1,9 @@
 ofxTaskQueue
 ============
 
+> **About this fork:** fork of [bakercp/ofxTaskQueue](https://github.com/bakercp/ofxTaskQueue). This branch matches upstream. The `poco_headers_only` branch builds against [ofxPocoHeaders](https://github.com/fred-dev/ofxPocoHeaders) instead of the old ofxPoco addon.
+
+
 ## Description
 
 TaskQueue executes and manages tasks in a multi-threaded environment.
